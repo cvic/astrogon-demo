@@ -1,7 +1,7 @@
 ---
 title: Folk & Cover cu Vasi @ Retro Pub – Rock’n Beer
 description: Vasi Folk & Cover Evening
-date: 2025-03-22
+date: 2025-05-09
 image: "@assets/blog/vasi-retro-pub.png"
 imageAlt: Vasi
 categories: [Acoustic, Folk]
