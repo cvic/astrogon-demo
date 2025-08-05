@@ -33,6 +33,15 @@ const about = defineCollection({
     }),
 });
 
+const contact = defineCollection({
+  loader: glob({ pattern: "-index.{md,mdx}", base: "./src/content/contact" }),
+  schema: ({ image }) =>
+    searchable.extend({
+      image: image().optional(),
+      imageAlt: z.string().default(""),
+    }),
+});
+
 const blog = defineCollection({
   loader: glob({ pattern: "**\/[^_]*.{md,mdx}", base: "./src/content/blog" }),
   schema: ({ image }) =>
@@ -99,6 +108,7 @@ const terms = defineCollection({
 export const collections = {
   about,
   blog,
+  contact,
   home,
   recipes,
   terms,

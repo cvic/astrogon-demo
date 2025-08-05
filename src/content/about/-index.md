@@ -1,7 +1,7 @@
 ---
 title: Despre noi
 description: this is meta description
-image: "@assets/profile/live-music-cold-beer.jpg"
+image: "@assets/profile/lizeanu-17.png"
 draft: false
 ---
 
