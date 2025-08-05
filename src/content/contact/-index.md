@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: this is meta description
-image: "@assets/profile/live-music-cold-beer.jpg"
+image: "@assets/contact/lizeanu-17.png"
 draft: false
 ---
 
