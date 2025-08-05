@@ -1,6 +1,6 @@
 ---
 title: Despre noi
-description: this is meta description
+description: About Retro Pub
 image: "@assets/profile/live-music-cold-beer.jpg"
 draft: false
 ---

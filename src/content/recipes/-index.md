@@ -1,4 +1,4 @@
 ---
 title: Recipes
-description: A modest recipe book.
+description: Retro Pub menu
 ---

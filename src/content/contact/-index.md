@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is meta description
+description: Contact details
 image: "@assets/contact/lizeanu-17.png"
 draft: false
 ---
