@@ -1,9 +1,6 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
-button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+image: "@assets/retro-logo.svg"
+imageAlt: Retro Pub logo
+title: The Coolest Pub
+content: Your own personal Cheers in Bucharest
 ---

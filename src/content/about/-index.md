@@ -5,4 +5,12 @@ image: "@assets/profile/jane-doe.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Facem pariu ca Lizeanu e mai misto decat Centrul Vechi?
+
+Vrei sa vii pe aici sa vezi frigiderul Arctic zidit in balcon?
+
+Vrei sa faci slalom printre pompele funebre si sa ajungi la un bar deschis acu' vreo 8 ani?
+
+Ne gasesti pe Lizeanu 17, ne mandrim ca avem cam cele mai misto beri la draft din zona, avem o selectie de tarii destul de stufoasa spunem noi, sustinem artistii plastici locali, de vreo 2-3 ori pe saptamana ai muzica live cu unii pe care poate ii stii sau nu, dar poate o sa iti placa, mai prinzi uneori si niste proiectii video sau expozitii si sambata ne jucam impreuna cu papusile la cursul de prim ajutor, pe mokka.
+
+Hai sa iti dam o bere rece si sa vezi  de ce zice lumea "Your own personal cheers in Bucharest"
