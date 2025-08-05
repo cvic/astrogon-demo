@@ -1,7 +1,7 @@
 ---
 title: Despre noi
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/profile/live-music-cold-beer.jpg"
 draft: false
 ---
 
