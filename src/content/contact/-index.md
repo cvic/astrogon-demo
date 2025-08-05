@@ -5,6 +5,12 @@ image: "@assets/contact/lizeanu-17.png"
 draft: false
 ---
 
- Str Lizeanu, Nr. 17, Bucuresti, Sector 2, 21111
- Email: terasaretro@gmail.com
- Telephone: 0744-654-266</p>
+Address: Str Lizeanu, nr 17, Sector 2, Bucharest, 21111
+
+Email: terasaretro@gmail.com
+
+Telephone: 0744 654 266
+
+Luni, Marți, Miercuri, Joi, Duminică: 16:00 – 2:00
+
+Vineri, Sâmbătă: 16:00 – 4:00
