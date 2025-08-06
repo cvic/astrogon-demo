@@ -107,7 +107,8 @@ draft: false
 
 ---
 
-## 🥃 The Classics / Unforgettables
+
+## The Classics / Unforgettables
 - Old Fashioned (Wild Turkey) — 60 ml — 32 lei  
 - Negroni (Gordon’s / Campari / Red Vermouth) — 90 ml — 32 lei
 
