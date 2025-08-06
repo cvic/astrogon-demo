@@ -1,7 +1,6 @@
 ---
 title: Contact
 description: Contact details
-image: "@assets/contact/lizeanu-17.png"
 draft: false
 ---
 
@@ -11,6 +10,6 @@ Email: terasaretro@gmail.com
 
 Telephone: 0744 654 266
 
-Luni, Marți, Miercuri, Joi, Duminică: 16:00 – 2:00
+Luni, Marți, Miercuri, Joi, Duminică: 16:00 - 2:00
 
-Vineri, Sâmbătă: 16:00 – 4:00
+Vineri, Sâmbătă: 16:00 - 4:00
