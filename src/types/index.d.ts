@@ -7,14 +7,14 @@ export type AboutEntry = CollectionEntry<"about">;
 export type BlogEntry = CollectionEntry<"blog">;
 export type ContactEntry = CollectionEntry<"contact">;
 export type HomeEntry = CollectionEntry<"home">;
-export type RecipesEntry = CollectionEntry<"recipes">;
+export type MenuEntry = CollectionEntry<"menu">;
 export type TermsEntry = CollectionEntry<"terms">;
 
 export type SearchableEntry =
   | AboutEntry
   | BlogEntry
   | ContactEntry
-  | RecipesEntry
+  | MenuEntry
   | TermsEntry;
 
 export type SocialLinks = {

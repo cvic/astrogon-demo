@@ -74,10 +74,10 @@ const home = defineCollection({
     }),
 });
 
-const recipes = defineCollection({
+const menu = defineCollection({
   loader: glob({
     pattern: "**\/[^_]*.{md,mdx}",
-    base: "./src/content/recipes",
+    base: "./src/content/menu",
   }),
   schema: ({ image }) =>
     searchable.extend({
@@ -110,6 +110,6 @@ export const collections = {
   blog,
   contact,
   home,
-  recipes,
+  menu,
   terms,
 };

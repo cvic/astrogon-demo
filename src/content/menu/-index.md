@@ -1,4 +1,4 @@
 ---
-title: Recipes
+title: Menu
 description: Retro Pub menu
 ---

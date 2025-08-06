@@ -1,7 +1,7 @@
 ---
 title:
 description:
-image: "@assets/recipes/.jpg"
+image: "@assets/menu/.jpg"
 imageAlt:
 author:
 prepTime: 0
