@@ -1,7 +1,6 @@
 ---
 title: Menu
 description: Retro Pub bar menu
-draft: false
 ---
 
 ## 🍸 Bar Menu
@@ -223,4 +222,4 @@ draft: false
 
 ### The Classics / Unforgettables
 - Old Fashioned (Wild Turkey) — 60 ml — 32 lei  
-- Negroni (Gordon’s / Campari / Red Vermouth) — 90 ml — 32 lei  
+- Negroni (Gordon’s / Campari / Red Vermouth) — 90 ml — 32 lei
