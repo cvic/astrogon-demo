@@ -1,10 +1,8 @@
 ---
-title: Menu
+title: 🍸 Bar Menu
 description: Retro Pub bar menu
 draft: false
 ---
-
-## 🍸 Bar Menu
 
 ### Whiskey & More
 - **Tanqueray 10 Dry Gin** — 28 lei  
@@ -14,6 +12,7 @@ draft: false
 - **Tanqueray Sevilla** — 28 lei  
 - **Tanqueray Royale** — 28 lei  
 - **Bulldog London Dry Gin** — 28 lei  
+
 
 ### Liqueur (40 ml)
 - **Bailey’s Irish Cream** — 24 lei  
@@ -28,6 +27,7 @@ draft: false
 - **Cinzano Rosso** — 21 lei  
 - **Passoa Liqueur** — 21 lei  
 
+
 ### Digestiv (40 ml)
 - **Jägermeister** — 24 lei  
 - **Cynar** — 21 lei  
@@ -37,6 +37,7 @@ draft: false
 - **Limoncello Isolabella** — 24 lei  
 - **Sambuca Romana** — 24 lei  
 
+
 ### Cognac (40 ml)
 - **Courvoisier XO** — 80 lei  
 - **Courvoisier VS** — 29 lei  
@@ -44,6 +45,7 @@ draft: false
 - **Rémy Martin XO** — 80 lei  
 
 ---
+
 
 ### 🍹 Long Drinks & Cocktails (250 ml)
 - **Disaronno Sour** — 35 lei  *(Disaronno, lemon juice)*  
@@ -58,6 +60,7 @@ draft: false
 - **Kir Royal** — 37 lei  
 - **Hugo** — 37 lei  
 
+
 ### Classic Cocktails
 - **Porn Star Martini** — 37 lei  
 - **Espresso Martini** — 37 lei  
@@ -66,6 +69,7 @@ draft: false
 - **Old Fashioned (Don Papa)** — 43 lei  
 - **Pina Colada** — 39 lei  
 
+
 ### Mocktails (250 ml) — 32 lei each
 - Safe Sex  
 - Green Apple  
@@ -73,6 +77,7 @@ draft: false
 - Sweet Lady  
 
 ---
+
 
 ### 🍾 Champagne & Sparkling Wine
 #### Champagne
@@ -88,6 +93,7 @@ draft: false
 - **Villa Sandi Il Fresco Alb / Millesimato Rosé Brut** — 160 lei  
 
 ---
+
 
 ### 🍷 White Wines (750 ml)
 #### Romanian
@@ -107,6 +113,7 @@ draft: false
 - Petit Helena / Girboiu — 220 lei  
 - Sarba Barrique / Girboiu — 170 lei  
 
+
 #### Imported Whites
 - Nocturne Pinot Grigio / Purcari — 130 lei  
 - Purcari Fumé Blanc — 130 lei  
@@ -123,6 +130,7 @@ draft: false
 
 ---
 
+
 ### 🌹 Rosé Wines (750 ml)
 #### Romanian
 - Solo Quinta / Recaș — 180 lei  
@@ -137,6 +145,7 @@ draft: false
 - Sole / Recaș — 160 lei  
 - Daimond Busuioacă / Averești — 120 lei  
 
+
 #### Imported Rosé
 - Nocturne / Purcari — 120 lei  
 - Generații / Davidescu — 160 lei  
@@ -146,10 +155,12 @@ draft: false
 
 ---
 
+
 ### 🍷 Sweet / Desert Wine
 - **Nectar de Transilvania Liliac (375 ml)** — 160 lei  
 
 ---
+
 
 ### 🍷 Red Wines (750 ml)
 #### Romanian
@@ -164,6 +175,7 @@ draft: false
 - Davino Ceptura Rouge — 260 lei  
 - Apogeum Fetească Neagră / Tohani — 410 lei  
 - Constantin / Girboiu — 410 lei  
+
 
 #### Imported Reds
 - Nocturne Rară Neagră / Purcari — 120 lei  
@@ -183,7 +195,9 @@ draft: false
 
 ---
 
+
 ### 🍺 Beer & Soft Drinks
+
 
 #### Soft Drinks
 - Pepsi Cola / Pepsi Zero — 14 lei  
@@ -197,6 +211,7 @@ draft: false
 - Aqua Panna / San Pellegrino — 22 lei  
 - Alchemico Tonic & Soda Mixers — 21 lei each  
 
+
 #### Beer
 - Carlsberg Draught 400 ml — 19 lei  
 - B­ucur Blondă Draught — 19 lei  
@@ -204,15 +219,19 @@ draft: false
 - Weihenstephan 500 ml — 24 lei  
 - Bottled Carlsberg, Bucur, Tuborg, Grimbergen, 1664 Blanc — 14–22 lei  
 
+
 #### Cider
 - Somersby Apple, Blackberry, Pear Cider 330 ml — 17 lei  
+
 
 #### Fresh Lemonades & Mixes (250 ml)
 - Classic Lemonade, Mango, Peach, Mint, Strawberry, Elderflower Mormon Mixes — 22–24 lei  
 
+
 #### Fresh Juices
 - Orange, Grapefruit, Mixed Fresh — 25 lei each  
 - Homemade Ice Tea (fruits / herbs blends) — 17–29 lei  
+
 
 #### Hot Tea & Chocolate (200 ml)
 - White Chocolate — 18 lei  
@@ -220,6 +239,7 @@ draft: false
 - Demmers Tea Selection (English Breakfast, Jasmine, Forestberry, Chamomile, Peppermint) — 22 lei  
 
 ---
+
 
 ### The Classics / Unforgettables
 - Old Fashioned (Wild Turkey) — 60 ml — 32 lei  
