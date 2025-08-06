@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Jump To:
-- [Bar Menu](#bar-menu)
+- [Whiskey & More](#whiskey--more)
 - [Cocktails](#cocktails)
 - [Champagne & Sparkling Wine](#champagne--sparkling-wine)
 - [White Wines](#white-wines)
@@ -15,26 +15,26 @@ draft: false
 - [Classics / Unforgettables](#the-classics--unforgettables)
 
 
-### Whiskey & More
+## Whiskey & More
 - **Tanqueray 10 Dry Gin** — 28 lei  
 - **Tanqueray London Dry** — 28 lei
 - **Disaronno** — 24 lei
 
 ---
 
-## 🍹 Cocktails
+## Cocktails
 
 ### Long Drinks
 - **Disaronno Sour** — 35 lei  *(Disaronno, lemon juice)* 
 
 ---
 
-## 🥂 Champagne & Sparkling Wine
+## Champagne & Sparkling Wine
 - **Louis Roederer Premier Brut (750 ml)** — 400 lei  
 
 ---
 
-## 🍷 White Wines (750 ml)
+## White Wines
 #### Romanian
 - Solo Quinta / Recaș — 190 lei  
 - Fetească Regală / Recaș — 160 lei  
@@ -47,7 +47,7 @@ draft: false
 
 ---
 
-## 🌹 Rosé Wines
+## Rosé Wines
 #### Romanian
 - Solo Quinta / Recaș — 180 lei  
 - Princeps / Sarica — 120 lei 
@@ -58,7 +58,7 @@ draft: false
 
 ---
 
-## 🍷 Red Wines (750 ml)
+## Red Wines
 #### Romanian
 - Agum Cabernet Sauvignon / Negrini — 120 lei  
 - Selene Syrah / Recaș — 160 lei  
@@ -75,7 +75,7 @@ draft: false
 
 ---
 
-## 🍺 Beer & Soft Drinks
+## Beer & Soft Drinks
 #### Soft Drinks
 - Pepsi Cola / Pepsi Zero — 14 lei  
 - Mirinda, 7UP, Evervess Tonic — 14 lei  
